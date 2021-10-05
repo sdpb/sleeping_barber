@@ -3,9 +3,9 @@ The popular sleeping barber problem, implemented with pthreads, semaphores and m
 
 ## Compilation
 
-´´´bash
+```bash
 gcc sleeping_barber.c -Wall -pthread -o Barber
-´´´
+
 
 ## About the code
 
