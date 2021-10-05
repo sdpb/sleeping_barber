@@ -1,6 +1,14 @@
 # sleeping_barber
 The popular sleeping barber problem, implemented with pthreads, semaphores and mutexes in C.
 
+## Compilation
+
+´´´bash
+gcc sleeping_barber.c -Wall -pthread -o Barber
+´´´
+
+## About the code
+
 <b>Input:</b>
 <ul>
   <li> number of seats </li>
